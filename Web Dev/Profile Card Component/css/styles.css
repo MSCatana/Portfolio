@@ -1,0 +1,32 @@
+body {
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 700;
+  background-color: #0989B4; /* background colour if the background image doesn't exist */
+  background-repeat: no-repeat; /* does not repeat the image */
+  background-size: cover; /* resize the entire image to cover the entire container */
+}
+
+.container {
+  display: flex; /* it enables a flex context for all its direct children */
+  height: 250px;
+  width: 250px;
+  justify-content: center; /* items are centered along the line */
+  align-items: center; /* items are centered in the cross-axis */
+  align-content: center; /* items centered in the container */
+  margin: 0 auto; /* center block-level element */
+  background-color: #ffffff; /* to delete, just to test */
+  border-radius: 8px; /* for the round border */
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 375px) {
+
+}
