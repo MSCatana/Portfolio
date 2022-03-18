@@ -10,7 +10,7 @@ export class AppComponent implements OnInit{
   isDisabled: boolean = true;
 
   ngOnInit(){
-    
+
   }
 
   ngOnChanges(): void{
@@ -21,5 +21,6 @@ export class AppComponent implements OnInit{
 
   onClick(){
     this.username = '';
+    this.isDisabled = true;
   } 
 }
