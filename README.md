@@ -1,6 +1,7 @@
-# Portfolio
-Folder with small projects for showcase
+# Learning Portfolio
 
-assigmentsCourse4/5 refer to the Coursera courses "HTML, CSS, and Javascript for Web Developers" and "Single Page Web Applications with AngularJS" respectively.
+This repository documents my self-driven learning journey across two major domains:
+- **Embedded Systems**
+- **Web Development**
 
-Projects from Arduino Starter Kit are also included
+Each section contains hands-on projects, exercises, and assignments based on reputable courses and kits, structured for clarity and future reference.
